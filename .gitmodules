@@ -2,3 +2,6 @@
 	path = autograder-server
 	url = ../autograder-server.git
 	branch = release-4.4.x
+[submodule "ag-website-vue"]
+	path = ag-website-vue
+	url = git@github.com:broad-well/ag-website-vue.git
